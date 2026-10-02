@@ -64,7 +64,7 @@ The system is designed to:
 | ---------------------------------- | ------------------------------------ |
 | **LPC2148**                        | Main ARM7 microcontroller            |
 | **DHT11**                          | Temperature and humidity measurement |
-| **LCD 16×2**                       | Display sensor values and menus      |
+| **LCD 20×4**                       | Display sensor values and menus      |
 | **ESP-01**                         | Wi-Fi and cloud communication        |
 | **Soil Moisture Sensor**           | Detects soil moisture condition      |
 | **Keypad**                         | User input and menu selection        |
